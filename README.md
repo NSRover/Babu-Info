@@ -1,22 +1,14 @@
 Identification info of my pet cat named Babu.
 
+![Test Image 1](Pics/IMG_3059.jpeg)
+
+![Test Image 1](Pics/DSCN1787.jpeg)
+
+![Test Image 1](Pics/IMG_0469.jpeg)
+
 # Microchip ID
 
 945000006010518
-
-
-
-```
-Inline-style: 
-![alt text](Pics/DSCN1787.jpeg "Logo Title Text 1")
-```
-
-
-
-```
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-```
 
 # Owner Contact
 
