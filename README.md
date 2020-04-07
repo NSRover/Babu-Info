@@ -1,6 +1,6 @@
 Identification info of my pet cat named Babu.
 
-![](Pics/IMG_3059.jpeg | width=100)
+![](Pics/IMG_3059.jpeg)
 
 ![Test Image 1](Pics/DSCN1787.jpeg)
 
